@@ -40,7 +40,7 @@ def print_sign_sample():
 
 
 # download BelgiumTSC_Testing.zip and extract to this repository at
-# adversarial_learning/tensorflow_example/data/Testing
+# adversarial_learning/tensorflow_exercise/data/Testing
 # do similar for BelgiumTSC_Training.zip
 root_path = os.getcwd()
 train_data_directory = os.path.join(root_path, "data/Training")
